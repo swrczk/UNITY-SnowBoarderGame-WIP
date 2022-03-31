@@ -6,6 +6,8 @@
 
 ![gameplay](./gamePreview/gameplay.gif)
 
+<i>Player's glitching is caused by recording</i>
+
 ## Features
 
 ### Course Content
